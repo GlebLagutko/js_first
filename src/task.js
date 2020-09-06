@@ -5,4 +5,5 @@ String.prototype.isLetter = function() {
     return /^[a-zA-Z]$/.test(a[0]);
 }
 console.log('a'.isLetter());
+ddd
 
